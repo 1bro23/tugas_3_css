@@ -1,0 +1,23 @@
+p{
+  background-color:gray;
+  font-size: 12px
+}
+.o{
+  background-color:orange;
+  font-family:sans-serif;
+}
+.t{
+  background-color:blue;
+  color:white;
+  font-family:sans-serif;
+}
+.tr{
+  background-color:white;
+  font-size:19px;
+  font-family:arial;
+  font-weight:1;
+}
+.f{
+  font-weight:bold;
+  font-size:19px;
+}
